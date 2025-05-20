@@ -40,4 +40,4 @@ jobs:
 
     steps:
       - name: Run another script
-      - run: echo Hi Hello
+        run: echo Hi Hello
